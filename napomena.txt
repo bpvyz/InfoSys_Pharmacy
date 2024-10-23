@@ -1,0 +1,9 @@
+Dijagrami se nalaze u folderu "Dijagrami_Enterprise_Architect".
+
+JPG dijagrama se nalazi u folderu "Dijagrami_JPG".
+
+Projekat sa GRL i UCM dijagramima se nalazi u folderu "Projekat_Eclipse".
+
+Konačni izveštaj se nalazi u folderu "Izveštaj".
+
+Za izradu dijagrama sam koristio Enterprise Architect.

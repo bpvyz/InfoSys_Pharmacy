@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;demo1/is18823new/demo1/new_file.jucm&apos; to &apos;ucms.jucm&apos;" description="Rename resource &apos;new_file.jucm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="is18823new/demo1/new_file.jucm" name="ucms.jucm" stamp="1699994207081" updateReferences="true"/>
+</session>

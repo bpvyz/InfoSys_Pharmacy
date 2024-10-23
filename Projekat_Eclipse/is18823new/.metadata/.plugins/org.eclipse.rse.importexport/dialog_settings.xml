@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="RemoteImportWizard">
+		<item value="false" key="RemoteImportWizardPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="" key="RemoteImportWizardPage1.STORE_DESCRIPTION_FILE_NAME_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_CREATE_DESCRIPTION_FILE_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_REVIEW_SYNCHRONIZE_ID"/>
+		<list key="RemoteImportWizardPage1.STORE_SOURCE_NAMES_ID">
+			<item value="B-PC.Local:E:/_misc/is18823new(1)/is18823new/demo1"/>
+			<item value="B-PC.Local:C:/Users/B/Desktop/is18823new/is18823new/demo1"/>
+		</list>
+	</section>
+</section>

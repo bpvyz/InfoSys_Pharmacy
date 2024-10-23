@@ -1,0 +1,4 @@
+79. Informacioni sistem kao podrska izdavanju lekova apoteke. Ovim modelom je predstavljen sistem za izdavanje lekova od strane apotekarske ustanove. Za svakog pacijenta se, u ustanovi u kojoj se leci, pre pregleda proverava datum važenje knjižice i ako je validan njemu se uspostavlja dijagnoza. Pacijent se upucuje u obližnju apoteku gde on i podiže lek. Farmaceutkinja cita knjižicu i recept i ako apoteka ima odredeni lek ona ubacuje podatke o boleskniku u bazu podataka a takode i upisuje koje je lekove uzeo. Odredeni slojevi ljudi su oslobodeni placanja participacije kao npr. studenti i penzioneri a za ostale koji uzimaju lek na recept je odredena fiksna naknada dok vrednost leka za obe klase pokriva socijalno. Ostali lekovi koji ne idu na recept se placaju gotovinom.
+
+
+Obrazac: Process Interaction
